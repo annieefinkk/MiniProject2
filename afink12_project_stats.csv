@@ -1,0 +1,11 @@
+project;#commits;#authors;Max Time;Min Time;#stars;#forks;LastGHCommitDate;LongestGapStart (YYYY-MM);LongestGapEnd (YYYY-MM);LongestGapLength;NumCommitsAfterLastGap;NumberOfGapsInTimeline;pattern
+pachterlab_sleuth;861;50;1756296602;1423853065;317;98;2025/05/28;2020-04;2022-10;20;21;5;declining
+geostat-framework_gstools;2547;27;1762186501;1516014249;652;83;2026/07/03;2023-09;2023-10;2;414;0;irregular
+juliaearth_geostats.jl;3243;34;1761655074;1428862506;590;66;2026/09/15;2016-03;2016-09;7;3213;1;declining
+jaredhuling_oem;538;8;1722098631;1459175843;27;6;2024/07/27;2019-03;2020-05;15;34;8;declining
+avehtari_ros-examples;633;10;1747851737;1517860361;357;255;2025/05/18;2023-02;2023-09;8;16;4;declining
+scikit-hep_uproot4;5359;125;1762373168;1588969810;270;102;2026/09/22;n/a;n/a;0;n/a;0;cyclical
+juliaphysics_measurements.jl;976;51;1776693163;1463425598;536;43;2026/09/22;2024-06;2024-10;5;128;4;cyclical
+asfhyp3_hyp3;9010;37;1762212837;1588181628;53;13;2026/09/23;n/a;n/a;0;n/a;0;U-shaped
+daehwankimlab_hisat2;1954;65;1760456696;1427739621;542;131;2026/07/31;2023-12;2024-06;7;33;4;declining
+hjkgrp_molsimplify;4039;121;1762203515;1458222188;227;60;2026/08/18;2023-06;2023-06;1;1269;0;rising
