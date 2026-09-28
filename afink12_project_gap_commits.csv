@@ -191,7 +191,7 @@ pre;hjkgrp_molsimplify;7adc77a900aeae0cad3b1171474f984e57f5498c;Aditya Nandy <ad
 pre;hjkgrp_molsimplify;683aef9b1af99ab38ed1beed1509937d4772a360;Aditya Nandy <aditya.nandy@gmail.com>;2020-09;"Fix issue that was causing test failure"
 post;hjkgrp_molsimplify;5803543c2daac4e8e804a556e94f4d0e64aa2c0b;mgt16 <mgt16@mit.edu>;2021-04;"Merge branch 'master' of https://github.com/hjkgrp/molSimplify"
 post;hjkgrp_molsimplify;5af425933c64ab56d47570df4ba4f297f94b3d18;Aditya Nandy <aditya.nandy@gmail.com>;2021-04;"Fix metalloids that were missing from list"
-post;hjkgrp_molsimplify;e7d30905de82a44aec415ff12a05971c59caf332;Aditya Nandy <aditya.nandy@gmail.com>;2021-04;"Fix typing and also clean up featurization example, comment out extraneous prints"
+post;hjkgrp_molsimplify;e7d30905de82a44aec415ff12a05971c59caf332;Aditya Nandy <aditya.nandy@gmail.com>;2021-04;"Fix typing and also clean up featurization example comment out extraneous prints"
 post;hjkgrp_molsimplify;cec68bfb3e1c3875abd9bc4fc886dec07c0cb470;Aditya Nandy <aditya.nandy@gmail.com>;2021-04;"Merge branch 'master' of https://github.com/hjkgrp/molSimplify"
 post;hjkgrp_molsimplify;360d53282153c2e67993fe4e302e545dec02b16c;mgt16 <mgt16@mit.edu>;2021-04;"Add %volume ligand calculation"
 post;hjkgrp_molsimplify;dfc0bdc830fafaa07861dcbd200ae8f389743d21;mgt16 <mgt16@mit.edu>;2021-04;"Fix bug in jupyter vis"
